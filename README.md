@@ -1,2 +1,2 @@
 # jenkin_Javaproject
-Project -GitHub with Jenkins 
+Building an end-to-end CI/CD pipeline with Github and Jenkins
